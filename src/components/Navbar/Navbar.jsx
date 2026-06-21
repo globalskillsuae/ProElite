@@ -23,7 +23,7 @@ export default function Navbar() {
             </div>
             <div className="nav-logo-text">
               <span className="brand-main">PRO ELITE</span>
-              <span className="brand-sub">Middle General Maintenance</span>
+              <span className="brand-sub">GROUP OF COMPANIES</span>
             </div>
           </a>
           <div className="nav-links">

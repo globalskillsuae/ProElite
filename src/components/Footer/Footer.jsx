@@ -12,7 +12,7 @@ export default function Footer() {
             </div>
             <div className="nav-logo-text">
               <span className="brand-main" style={{ color: 'white' }}>PRO ELITE</span>
-              <span className="brand-sub" style={{ color: 'rgba(255,255,255,0.4)' }}>Middle General Maintenance</span>
+              <span className="brand-sub" style={{ color: 'rgba(255,255,255,0.4)' }}>GROUP OF COMPANIES</span>
             </div>
           </div>
           <p>
