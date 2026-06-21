@@ -1,3 +1,5 @@
+import logo from '../../assets/logo/main-logo.png'
+
 export default function Footer() {
   return (
     <footer>
@@ -6,12 +8,7 @@ export default function Footer() {
         <div className="footer-about">
           <div className="nav-logo">
             <div className="nav-logo-mark">
-              <svg viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
-                <rect width="8" height="28" x="4" y="8" fill="#E10613" rx="1.5"/>
-                <rect width="8" height="36" x="18" y="0" fill="white" rx="1.5"/>
-                <rect width="8" height="31" x="32" y="5" fill="#E10613" rx="1.5"/>
-                <rect width="36" height="2.5" x="4" y="39" fill="#E10613" rx="1.25"/>
-              </svg>
+              <img src={logo} alt="Pro Elite logo" />
             </div>
             <div className="nav-logo-text">
               <span className="brand-main" style={{ color: 'white' }}>PRO ELITE</span>
